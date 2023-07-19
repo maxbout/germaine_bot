@@ -1,0 +1,31 @@
+[0.024s] Invoking command in '/home/student/germaine_ws/build/germaine_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/student/ros2_ws/install/ultrasonreceiver:/home/student/ros2_ws/install/test_tourne:/home/student/ros2_ws/install/teleop_twist_keyboard:/home/student/ros2_ws/install/teleop_servos:/home/student/ros2_ws/install/stereoreceiver:/home/student/ros2_ws/install/pointcloud_transformer:/home/student/ros2_ws/install/oak_receiver:/home/student/ros2_ws/install/lidarreceiver:/home/student/ros2_ws/install/imureceiver:/home/student/ros2_ws/install/baselink_to_lidar:/opt/ros/humble /usr/bin/cmake --build /home/student/germaine_ws/build/germaine_bot -- -j8 -l8
+[0.072s] Invoked command in '/home/student/germaine_ws/build/germaine_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/student/ros2_ws/install/ultrasonreceiver:/home/student/ros2_ws/install/test_tourne:/home/student/ros2_ws/install/teleop_twist_keyboard:/home/student/ros2_ws/install/teleop_servos:/home/student/ros2_ws/install/stereoreceiver:/home/student/ros2_ws/install/pointcloud_transformer:/home/student/ros2_ws/install/oak_receiver:/home/student/ros2_ws/install/lidarreceiver:/home/student/ros2_ws/install/imureceiver:/home/student/ros2_ws/install/baselink_to_lidar:/opt/ros/humble /usr/bin/cmake --build /home/student/germaine_ws/build/germaine_bot -- -j8 -l8
+[0.109s] Invoking command in '/home/student/germaine_ws/build/germaine_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/student/ros2_ws/install/ultrasonreceiver:/home/student/ros2_ws/install/test_tourne:/home/student/ros2_ws/install/teleop_twist_keyboard:/home/student/ros2_ws/install/teleop_servos:/home/student/ros2_ws/install/stereoreceiver:/home/student/ros2_ws/install/pointcloud_transformer:/home/student/ros2_ws/install/oak_receiver:/home/student/ros2_ws/install/lidarreceiver:/home/student/ros2_ws/install/imureceiver:/home/student/ros2_ws/install/baselink_to_lidar:/opt/ros/humble /usr/bin/cmake --install /home/student/germaine_ws/build/germaine_bot
+[0.118s] -- Install configuration: ""
+[0.119s] -- Execute custom install script
+[0.120s] -- Up-to-date symlink: /home/student/germaine_ws/install/germaine_bot/share/germaine_bot/config/empty.yaml
+[0.120s] -- Symlinking: /home/student/germaine_ws/install/germaine_bot/share/germaine_bot/description/IMU.xacro
+[0.131s] -- Symlinking: /home/student/germaine_ws/install/germaine_bot/share/germaine_bot/description/camera1.xacro
+[0.141s] -- Symlinking: /home/student/germaine_ws/install/germaine_bot/share/germaine_bot/description/camera2.xacro
+[0.152s] -- Symlinking: /home/student/germaine_ws/install/germaine_bot/share/germaine_bot/description/inertial_macros.xacro
+[0.162s] -- Symlinking: /home/student/germaine_ws/install/germaine_bot/share/germaine_bot/description/lidar.xacro
+[0.172s] -- Up-to-date symlink: /home/student/germaine_ws/install/germaine_bot/share/germaine_bot/description/robot.urdf.xacro
+[0.172s] -- Symlinking: /home/student/germaine_ws/install/germaine_bot/share/germaine_bot/description/robot_core.xacro
+[0.183s] -- Up-to-date symlink: /home/student/germaine_ws/install/germaine_bot/share/germaine_bot/launch/rsp.launch.py
+[0.183s] -- Up-to-date symlink: /home/student/germaine_ws/install/germaine_bot/share/germaine_bot/worlds/empty.world
+[0.183s] -- Up-to-date symlink: /home/student/germaine_ws/install/germaine_bot/share/ament_index/resource_index/package_run_dependencies/germaine_bot
+[0.184s] -- Up-to-date symlink: /home/student/germaine_ws/install/germaine_bot/share/ament_index/resource_index/parent_prefix_path/germaine_bot
+[0.184s] -- Up-to-date symlink: /home/student/germaine_ws/install/germaine_bot/share/germaine_bot/environment/ament_prefix_path.sh
+[0.184s] -- Up-to-date symlink: /home/student/germaine_ws/install/germaine_bot/share/germaine_bot/environment/ament_prefix_path.dsv
+[0.185s] -- Up-to-date symlink: /home/student/germaine_ws/install/germaine_bot/share/germaine_bot/environment/path.sh
+[0.185s] -- Up-to-date symlink: /home/student/germaine_ws/install/germaine_bot/share/germaine_bot/environment/path.dsv
+[0.186s] -- Up-to-date symlink: /home/student/germaine_ws/install/germaine_bot/share/germaine_bot/local_setup.bash
+[0.186s] -- Up-to-date symlink: /home/student/germaine_ws/install/germaine_bot/share/germaine_bot/local_setup.sh
+[0.186s] -- Up-to-date symlink: /home/student/germaine_ws/install/germaine_bot/share/germaine_bot/local_setup.zsh
+[0.187s] -- Up-to-date symlink: /home/student/germaine_ws/install/germaine_bot/share/germaine_bot/local_setup.dsv
+[0.187s] -- Symlinking: /home/student/germaine_ws/install/germaine_bot/share/germaine_bot/package.dsv
+[0.198s] -- Up-to-date symlink: /home/student/germaine_ws/install/germaine_bot/share/ament_index/resource_index/packages/germaine_bot
+[0.198s] -- Up-to-date symlink: /home/student/germaine_ws/install/germaine_bot/share/germaine_bot/cmake/germaine_botConfig.cmake
+[0.199s] -- Up-to-date symlink: /home/student/germaine_ws/install/germaine_bot/share/germaine_bot/cmake/germaine_botConfig-version.cmake
+[0.199s] -- Up-to-date symlink: /home/student/germaine_ws/install/germaine_bot/share/germaine_bot/package.xml
+[0.202s] Invoked command in '/home/student/germaine_ws/build/germaine_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/student/ros2_ws/install/ultrasonreceiver:/home/student/ros2_ws/install/test_tourne:/home/student/ros2_ws/install/teleop_twist_keyboard:/home/student/ros2_ws/install/teleop_servos:/home/student/ros2_ws/install/stereoreceiver:/home/student/ros2_ws/install/pointcloud_transformer:/home/student/ros2_ws/install/oak_receiver:/home/student/ros2_ws/install/lidarreceiver:/home/student/ros2_ws/install/imureceiver:/home/student/ros2_ws/install/baselink_to_lidar:/opt/ros/humble /usr/bin/cmake --install /home/student/germaine_ws/build/germaine_bot
